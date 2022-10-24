@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-imdb-com,chrome,63048.04807446436,2105211.052071311
+nexus6p,https-www-imdb-com,firefox,105429.21067445612,1599114.9425790764

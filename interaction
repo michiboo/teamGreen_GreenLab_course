@@ -1,0 +1,14 @@
+TOUCH|{'x':585,'y':1749,'type':'downAndUp',}
+TOUCH|{'x':670,'y':2549,'type':'downAndUp',}
+TOUCH|{'x':1192,'y':2117,'type':'downAndUp',}
+DRAG|{'point': [{'x':200, 'y':350}, {'x':400, 'y':250}], 'down':1, 'up':2}
+TOUCH|{'x':549,'y':2069,'type':'downAndUp',}
+TOUCH|{'x':927,'y':2320,'type':'downAndUp',}
+TOUCH|{'x':1296,'y':2272,'type':'downAndUp',}
+DRAG|{'point': [{'x':300, 'y':250}, {'x':450, 'y':150}], 'down':1, 'up':2}
+TOUCH|{'x':499,'y':1418,'type':'downAndUp',}
+TOUCH|{'x':499,'y':1418,'type':'downAndUp',}
+TOUCH|{'x':994,'y':2122,'type':'downAndUp',}
+DRAG|{'point': [{'x':200, 'y':360}, {'x':400, 'y':250}], 'down':1, 'up':2}
+TOUCH|{'x':499,'y':1418,'type':'downAndUp',}
+TOUCH|{'x':994,'y':2122,'type':'downAndUp',}

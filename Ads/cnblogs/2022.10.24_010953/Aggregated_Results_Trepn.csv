@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-cnblogs-com,chrome,153790.83743815866,1188112.086495913
+nexus6p,https-www-cnblogs-com,firefox,66304.33008413189,1184237.077687872

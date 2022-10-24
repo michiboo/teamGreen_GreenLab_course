@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-psychologytoday-com,chrome,215727.61106014546,1293578.8756047986
+nexus6p,https-www-psychologytoday-com,firefox,189022.66905194367,1301210.1078705252

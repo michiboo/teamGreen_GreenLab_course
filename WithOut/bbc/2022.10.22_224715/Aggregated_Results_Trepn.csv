@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-bbc-com,chrome,118263.62356163825,1124243.62147442
+nexus6p,https-www-bbc-com,firefox,197329.91374291872,1202803.061025998

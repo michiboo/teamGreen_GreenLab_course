@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-investing-com,chrome,121795.35096669002,1166816.7883770294
+nexus6p,https-www-investing-com,firefox,89858.76244910667,1131932.710472976

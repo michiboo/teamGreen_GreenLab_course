@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-livejournal-com,chrome,79564.42454737671,1418963.858381803
+nexus6p,https-www-livejournal-com,firefox,137623.66427114507,1229259.3425939628

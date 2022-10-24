@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-accuweather-com,chrome,133802.454402668,1110998.3425809084
+nexus6p,https-www-accuweather-com,firefox,65929.51908158629,1102902.9344223219

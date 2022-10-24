@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-speedtest-net,chrome,234667.00829550932,1655038.875154423
+nexus6p,https-www-speedtest-net,firefox,714016.9668248394,2722077.662797454

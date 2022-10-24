@@ -1,0 +1,3 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-science-org,chrome,68711.58489206915,1270587.6501228001
+nexus6p,https-www-science-org,firefox,175174.3233568942,1420914.5434282122
