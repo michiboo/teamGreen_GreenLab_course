@@ -17,7 +17,10 @@
   "systrace_path": "/usr/lib/android-sdk/tools/swt/monkeyrunner/scripts/monkey_playback.py",
   "powerprofile_path": "/android-runner/AndroidRunner/Plugins/trepn/Trepn.py", 
   "paths": [
-    "https://www.mirror.co.uk"
+    "https://www.science.org",
+    "https://www.cnblogs.com",
+    "https://www.imdb.com",
+    "https://www.investing.com"
   ],
   "profilers": {
     "trepn":{

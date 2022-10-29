@@ -1,0 +1,9 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-cnblogs-com,chrome,60124.648560525,1148575.3837908725
+nexus6p,https-www-cnblogs-com,firefox,97215.804761607,1266101.5497101308
+nexus6p,https-www-science-org,chrome,60582.94437974014,1151239.0174751477
+nexus6p,https-www-science-org,firefox,156366.76950222888,1362674.852720185
+nexus6p,https-www-imdb-com,chrome,438528.9210856393,2122062.114218644
+nexus6p,https-www-imdb-com,firefox,76372.51904660425,1387228.726629974
+nexus6p,https-www-investing-com,chrome,95844.34250492169,1129510.4331448001
+nexus6p,https-www-investing-com,firefox,60123.77691808061,1214956.7133495214

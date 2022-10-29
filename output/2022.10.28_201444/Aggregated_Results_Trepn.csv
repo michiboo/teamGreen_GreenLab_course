@@ -1,0 +1,7 @@
+device,subject,browser,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus6p,https-www-livejournal-com,chrome,123838.84451860044,1238925.1033471746
+nexus6p,https-www-livejournal-com,firefox,91670.61975109944,1186944.3577535092
+nexus6p,https-www-bbc-com,chrome,82308.72880373405,1087862.2830796263
+nexus6p,https-www-bbc-com,firefox,155674.41347453077,1383251.8005378025
+nexus6p,https-www-speedtest-net,chrome,179277.854304252,1662616.925696764
+nexus6p,https-www-speedtest-net,firefox,1201477.6131933576,2764401.2687649634

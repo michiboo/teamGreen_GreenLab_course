@@ -1,0 +1,7 @@
+device,subject,browser,android_cpu,android_mem
+nexus6p,https-www-livejournal-com,chrome,21.57578003246753,1340389.6418233006
+nexus6p,https-www-livejournal-com,firefox,23.094503357488712,1330894.4591475958
+nexus6p,https-www-bbc-com,chrome,21.905342778787904,1276973.0662411472
+nexus6p,https-www-bbc-com,firefox,34.268353693002396,1351947.1484364343
+nexus6p,https-www-speedtest-net,chrome,23.905881937602626,1334037.4799480021
+nexus6p,https-www-speedtest-net,firefox,65.01155422114118,1286894.0410624302
