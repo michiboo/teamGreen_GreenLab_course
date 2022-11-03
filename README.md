@@ -11,4 +11,3 @@ The following is the information of each folder in this repository:
 - *Figures*: It contains all the diagram from data exploration, normality checks, and hypothesis testings.
 - *pythonscripts*: It has individual Python scripts to remove ads and analytics from each 10 web apps.
 - *interaction*: It is a configuration file for usage scenario for Monkey player
-- *run.sh*: It is a shell file to trigger Monkey player
