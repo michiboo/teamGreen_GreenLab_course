@@ -9,5 +9,5 @@ The following is the information of each folder in this repository:
 - *Scripts*: It contains all the Python scripts needed to handle the events(before run, before experiment, before close, after launch, after experiment, etc) of the experiment.
 - *Experiments*: It contains config files and Python scripts needed to run the experiment.
 - *pythonscripts*: It has individual Python scripts to remove ads and analytics from each 10 web apps.
-- *interaction*: It is a configuration file for usage scenario for Monkey runner
-- *run.sh*: It is a shell file to trigger Monkey runner
+- *interaction*: It is a configuration file for usage scenario for Monkey player
+- *run.sh*: It is a shell file to trigger Monkey player
